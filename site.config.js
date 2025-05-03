@@ -3,17 +3,17 @@ const CONFIG = {
   profile: {
     name: "morethanmin",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
+    role: "software engineer",
     bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    email: "chanleesing@gmail.com",
+    linkedin: "alanchanprogramming",
+    github: "leesingchanyau",
+    instagram: "leerules48",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `GNN-weather`,
+      href: "https://medium.com/stanford-cs224w/revolutionizing-weather-forecasting-with-graph-neural-networks-dcc2d06a4d52",
     },
   ],
   // blog setting (required)
